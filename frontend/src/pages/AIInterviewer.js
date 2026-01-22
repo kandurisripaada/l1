@@ -10,6 +10,7 @@ import SegmentedControl from '../components/SegmentedControl'; // Imported
 import { useWhisper } from '../contexts/WhisperContext';
 import browserSTT from '../services/browserSTTService';
 import '../styles/AIInterviewer.css';
+import { API_BASE_URL } from '../config';
 
 const AIInterviewer = () => {
   const navigate = useNavigate();
@@ -205,7 +206,7 @@ const AIInterviewer = () => {
     setAiState('processing'); // Show processing state while fetching greeting
     
     try {
-        const response = await fetch('http://localhost:5000/api/interview/chat', {
+        const response = await fetch(`${API_BASE_URL}/api/interview/chat`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -242,7 +243,7 @@ const AIInterviewer = () => {
         const fullTranscript = chatHistory.map(m => `${m.role === 'user' ? 'Candidate' : 'Interviewer'}: ${m.text}`).join('\n');
         
         try {
-            await fetch('http://localhost:5000/api/practice/submit', {
+            await fetch(`${API_BASE_URL}/api/practice/submit`, {
                 method: 'POST',
                 headers: { 
                     'Content-Type': 'application/json', 
@@ -366,8 +367,8 @@ const AIInterviewer = () => {
 
     try {
         const endpoint = aiMode === 'bot' 
-            ? 'http://localhost:5000/api/bot/chat' 
-            : 'http://localhost:5000/api/interview/chat';
+            ? `${API_BASE_URL}/api/bot/chat` 
+            : `${API_BASE_URL}/api/interview/chat`;
             
         const payload = {
             history: chatHistory.map(m => ({ role: m.role, text: m.text })),
@@ -491,8 +492,8 @@ const AIInterviewer = () => {
             // 4. Send to Backend
             try {
                 const endpoint = aiMode === 'bot' 
-                    ? 'http://localhost:5000/api/bot/chat' 
-                    : 'http://localhost:5000/api/interview/chat';
+                    ? `${API_BASE_URL}/api/bot/chat` 
+                    : `${API_BASE_URL}/api/interview/chat`;
                 
                 const payload = {
                     history: chatHistory.map(m => ({ role: m.role, text: m.text })),

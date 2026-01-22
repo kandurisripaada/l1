@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { FiMic, FiAward, FiCalendar, FiClock, FiTrendingUp, FiBookOpen, FiHeadphones } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 import '../styles/Dashboard.css';
+import { API_BASE_URL } from '../config';
 
 const Dashboard = () => {
   const [stats, setStats] = useState({
@@ -18,7 +19,7 @@ const Dashboard = () => {
       if (!token) return; // Or handle guest state
 
       try {
-        const response = await fetch('http://localhost:5000/api/practice/history', {
+        const response = await fetch(`${API_BASE_URL}/api/practice/history`, {
             headers: {
                 'Authorization': `Bearer ${token}`
             }

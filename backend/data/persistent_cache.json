@@ -1,478 +1,726 @@
 {
-  "topicCache": [
-    {
-      "id": 4,
-      "text": "If you could travel anywhere in the world, where would you go and what would you hope to experience or achieve?"
-    },
-    {
-      "id": 5,
-      "text": "What are some common societal pressures that people face, and how can we work to mitigate their negative effects?"
-    },
-    {
-      "id": 6,
-      "text": "How do you think technology will continue to evolve in the next decade, and what implications might this have for humanity?"
-    },
-    {
-      "id": 7,
-      "text": "What does it mean to be a responsible global citizen, and what actions can we take to make a positive impact?"
-    },
-    {
-      "id": 8,
-      "text": "In what ways can learning a new language enrich our lives, and what challenges might we face in the process?"
-    },
-    {
-      "id": 9,
-      "text": "What are some key factors that contribute to a person's overall happiness, and how can we incorporate them into our daily lives?"
-    },
-    {
-      "id": 10,
-      "text": "How can we balance the need for economic growth with the importance of protecting the environment?"
-    },
-    {
-      "id": 11,
-      "text": "What are some of the most significant cultural differences you've encountered, and how have they influenced your perspective?"
-    },
-    {
-      "id": 12,
-      "text": "If you could go back in time and give advice to your younger self, what would it be and why?"
-    },
-    {
-      "id": 13,
-      "text": "In what ways can mindfulness and self-reflection contribute to personal growth, and how can we make them a part of our daily routine?"
-    },
-    {
-      "id": 14,
-      "text": "What are some common myths or misconceptions about different cultures, and how can we work to dispel them?"
-    },
-    {
-      "id": 15,
-      "text": "How can we use our unique skills and talents to make a positive impact in our communities?"
-    },
-    {
-      "id": 16,
-      "text": "What role does creativity play in our lives, and how can we nurture it to achieve our goals?"
-    },
-    {
-      "id": 17,
-      "text": "What are some of the most pressing global issues of our time, and how can we contribute to finding solutions?"
-    },
-    {
-      "id": 18,
-      "text": "If you could switch lives with someone for a day, who would it be and what do you think you would learn from the experience?"
-    },
-    {
-      "id": 19,
-      "text": "How can we effectively communicate across cultural and linguistic boundaries, and what are some common pitfalls to avoid?"
-    },
-    {
-      "id": 20,
-      "text": "What are some ways in which we can cultivate empathy and understanding in our interactions with others?"
-    }
-  ],
+  "topicCache": [],
   "grammarCache": {
     "basic": [
       {
+        "id": 1,
+        "text": "I like apples"
+      },
+      {
+        "id": 2,
+        "text": "The cat is black"
+      },
+      {
+        "id": 3,
+        "text": "She eats breakfast at 7"
+      },
+      {
         "id": 4,
-        "text": "He reads a book."
+        "text": "He has a big house"
       },
       {
         "id": 5,
-        "text": "They live in a city."
+        "text": "I am happy today"
       },
       {
         "id": 6,
-        "text": "You speak English."
+        "text": "The dog is very small"
       },
       {
         "id": 7,
-        "text": "The sun shines brightly."
+        "text": "They are my friends"
       },
       {
         "id": 8,
-        "text": "My cat sleeps a lot."
+        "text": "I have a book"
       },
       {
         "id": 9,
-        "text": "Do you like coffee?"
+        "text": "The baby is sleeping"
       },
       {
         "id": 10,
-        "text": "He does not eat meat."
+        "text": "It is cold outside"
       },
       {
         "id": 11,
-        "text": "Birds fly high."
+        "text": "I love my family"
       },
       {
         "id": 12,
-        "text": "We watch TV."
+        "text": "The man is a doctor"
       },
       {
         "id": 13,
-        "text": "She walks to school."
+        "text": "She has a car"
       },
       {
         "id": 14,
-        "text": "I often cook dinner."
+        "text": "I am tired now"
       },
       {
         "id": 15,
-        "text": "He works in an office."
+        "text": "The flower is red"
       },
       {
         "id": 16,
-        "text": "I visited my friend."
+        "text": "He is my brother"
       },
       {
         "id": 17,
-        "text": "She ate a sandwich."
+        "text": "I like playing football"
       },
       {
         "id": 18,
-        "text": "They went to the park."
+        "text": "The sun is shining"
       },
       {
         "id": 19,
-        "text": "He saw a movie."
+        "text": "She is a student"
       },
       {
         "id": 20,
-        "text": "We bought new shoes."
+        "text": "I have a pen"
       },
       {
         "id": 21,
-        "text": "My dog slept all day."
+        "text": "The baby is crying"
       },
       {
         "id": 22,
-        "text": "You called me yesterday."
+        "text": "I am thirsty"
       },
       {
         "id": 23,
-        "text": "He did not come."
+        "text": "He is a teacher"
       },
       {
         "id": 24,
-        "text": "Did she finish it?"
+        "text": "The door is open"
       },
       {
         "id": 25,
-        "text": "I walked home quickly."
+        "text": "I like reading books"
       },
       {
         "id": 26,
-        "text": "They made a cake."
+        "text": "The cat is sleeping"
       },
       {
         "id": 27,
-        "text": "She wrote a letter."
+        "text": "She is a nurse"
       },
       {
         "id": 28,
-        "text": "We had a good time."
+        "text": "I have a bicycle"
       },
       {
         "id": 29,
-        "text": "He gave me a present."
+        "text": "The man is happy"
       },
       {
         "id": 30,
-        "text": "I woke up early."
+        "text": "I am hungry now"
       },
       {
         "id": 31,
-        "text": "I am happy."
+        "text": "The tree is green"
       },
       {
         "id": 32,
-        "text": "She is a student."
+        "text": "He has a phone"
       },
       {
         "id": 33,
-        "text": "We are friends."
+        "text": "I like watching TV"
       },
       {
         "id": 34,
-        "text": "The sky is blue."
+        "text": "The dog is barking"
       },
       {
         "id": 35,
-        "text": "It was cold yesterday."
+        "text": "She is a singer"
       },
       {
         "id": 36,
-        "text": "They were at home."
+        "text": "I have a chair"
       },
       {
         "id": 37,
-        "text": "He was tired."
+        "text": "The baby is laughing"
       },
       {
         "id": 38,
-        "text": "Is she kind?"
+        "text": "I am feeling sad"
       },
       {
         "id": 39,
-        "text": "Were you busy?"
+        "text": "He is a lawyer"
       },
       {
         "id": 40,
-        "text": "I am not sad."
+        "text": "I like playing music"
       }
     ],
     "intermediate": [
       {
+        "id": 2,
+        "text": "The new employee was given a lot of responsibility, but he was able to handle it successfully."
+      },
+      {
+        "id": 3,
+        "text": "If I had more free time, I would travel to exotic countries and try different types of cuisine."
+      },
+      {
+        "id": 4,
+        "text": "By the time I arrived at the party, most of the guests had already left and the music was turned off."
+      },
+      {
         "id": 5,
-        "text": "By next year, I will have been living in this city for five years."
+        "text": "The company will have to reduce its production costs if it wants to remain competitive in the global market."
       },
       {
         "id": 6,
-        "text": "The teacher asked the students to write a short essay about their summer vacation."
+        "text": "Although I was tired, I stayed up late to finish my project and meet the deadline."
       },
       {
         "id": 7,
-        "text": "Although it was raining, we still went to the park."
+        "text": "The teacher asked the students to work in pairs and discuss the advantages and disadvantages of social media."
       },
       {
         "id": 8,
-        "text": "The company will have to reduce its staff if it wants to survive."
+        "text": "Unless we take immediate action to protect the environment, future generations will face severe consequences."
       },
       {
         "id": 9,
-        "text": "If I won the lottery, I would buy a house on the beach."
+        "text": "During my summer vacation, I visited several historical sites and learned a lot about the local culture."
       },
       {
         "id": 10,
-        "text": "The concert was canceled due to the bad weather."
+        "text": "The new policy has been implemented to improve the quality of life for people living in urban areas."
       },
       {
         "id": 11,
-        "text": "The new policy has been implemented to reduce traffic congestion."
+        "text": "As soon as I got home, I started preparing dinner and watched a movie with my family."
       },
       {
         "id": 12,
-        "text": "The tourists got lost in the city because they didn't have a map."
+        "text": "Most people believe that education is the key to a successful and fulfilling life."
       },
       {
         "id": 13,
-        "text": "The student was disappointed when he didn't get the scholarship."
+        "text": "If it hadn't rained, we would have gone to the beach and enjoyed the sunshine."
       },
       {
         "id": 14,
-        "text": "The weather forecast says it will rain tomorrow, so take an umbrella."
+        "text": "The manager of the store apologized for the mistake and offered a discount on our next purchase."
       },
       {
         "id": 15,
-        "text": "The hotel room was very small, but it had a great view of the city."
+        "text": "By next year, I will have been studying English for five years and will be ready to take a proficiency exam."
       },
       {
         "id": 16,
-        "text": "The company is looking for someone who speaks fluent English and Spanish."
+        "text": "The tourists got lost in the city because they didn't have a map and couldn't speak the language."
       },
       {
         "id": 17,
-        "text": "The movie was so boring that I fell asleep halfway through."
+        "text": "The new smartphone is equipped with advanced technology and has a long-lasting battery."
       },
       {
         "id": 18,
-        "text": "The school will be closed for the next two weeks due to the holidays."
+        "text": "While I was waiting for the bus, I read a book and listened to music on my phone."
       },
       {
         "id": 19,
-        "text": "If I had more free time, I would learn how to play the guitar."
+        "text": "The government has introduced a new law to regulate the use of social media and protect users' privacy."
       },
       {
         "id": 20,
-        "text": "The city is hosting a festival to celebrate its 500th anniversary."
+        "text": "The students were asked to write a short essay on the importance of recycling and conservation."
       },
       {
         "id": 21,
-        "text": "The new smartphone is much faster and more powerful than the old one."
+        "text": "If I won the lottery, I would buy a house and travel around the world."
       },
       {
         "id": 22,
-        "text": "The teacher gave the students a lot of homework to do over the weekend."
+        "text": "The company's profits have increased significantly since the new marketing strategy was implemented."
       },
       {
         "id": 23,
-        "text": "The company has decided to expand its business to Asia."
+        "text": "The teacher encouraged the students to ask questions and participate in class discussions."
       },
       {
         "id": 24,
-        "text": "The book was so interesting that I read it in one day."
+        "text": "The city is planning to build a new park and improve the public transportation system."
       },
       {
         "id": 25,
-        "text": "The student was happy when he finally understood the difficult math concept."
+        "text": "Although I don't like sports, I enjoy watching football matches with my friends."
       },
       {
         "id": 26,
-        "text": "The hotel staff were very friendly and helpful during our stay."
+        "text": "The new restaurant in town serves delicious food and has a cozy atmosphere."
       },
       {
         "id": 27,
-        "text": "The weather was perfect for the wedding, sunny and not too hot."
+        "text": "The students had to work in groups and present their projects to the class."
       },
       {
         "id": 28,
-        "text": "The city has a lot of traffic, but the public transportation system is very good."
+        "text": "The weather forecast said it would rain, but the sun was shining all day."
       },
       {
         "id": 29,
-        "text": "The company is planning to launch a new product next month."
+        "text": "The hotel room was clean and comfortable, and the staff were friendly and helpful."
       },
       {
         "id": 30,
-        "text": "The tourists were amazed by the beauty of the ancient ruins."
+        "text": "If I had the opportunity, I would love to learn a new language and explore different cultures."
       },
       {
         "id": 31,
-        "text": "The student was sad when he said goodbye to his friends on the last day of school."
+        "text": "The company is looking for skilled employees who are fluent in English and have experience in marketing."
       },
       {
         "id": 32,
-        "text": "The city has a lot of parks and green spaces where people can relax."
+        "text": "The city is hosting a festival to celebrate its history and cultural heritage."
       },
       {
         "id": 33,
-        "text": "The teacher asked the students to work in groups to complete the project."
+        "text": "The teacher asked the students to write a diary entry about their summer vacation."
       },
       {
         "id": 34,
-        "text": "The new employee was given a lot of responsibility from the start."
+        "text": "The new policy aims to reduce carbon emissions and promote sustainable energy sources."
       },
       {
         "id": 35,
-        "text": "The company has a very good reputation for treating its employees well."
+        "text": "Although I was nervous, I gave a good presentation and received positive feedback from my colleagues."
       },
       {
         "id": 36,
-        "text": "The student was proud of himself when he finally finished the difficult project."
+        "text": "The tourists visited the museum and learned about the history and art of the region."
       },
       {
         "id": 37,
-        "text": "The city is known for its vibrant cultural scene and many museums."
+        "text": "The students were given a homework assignment to research and write about a historical event."
       },
       {
         "id": 38,
-        "text": "The teacher encouraged the students to ask questions and participate in class."
+        "text": "The company's success is due to the hard work and dedication of its employees."
       },
       {
         "id": 39,
-        "text": "The company is trying to reduce its carbon footprint by using renewable energy."
+        "text": "The weather was perfect for a picnic, and we had a great time in the park."
       },
       {
         "id": 40,
-        "text": "The student was relieved when he finally received his exam results and had passed."
+        "text": "The teacher encouraged the students to think critically and develop their problem-solving skills."
       }
     ],
     "advanced": [
       {
+        "id": 1,
+        "text": "While contemplating the implications of advanced technology on modern society, many researchers have begun to question the true cost of innovation."
+      },
+      {
+        "id": 2,
+        "text": "The fact that the new policy has been met with widespread criticism has not deterred the government from implementing it nationwide."
+      },
+      {
+        "id": 3,
+        "text": "Having spent several years studying the effects of climate change, the scientist was well-equipped to advise the government on potential solutions."
+      },
+      {
+        "id": 4,
+        "text": "The complexities of human emotions, which have puzzled philosophers and psychologists for centuries, continue to be a subject of intense debate and inquiry."
+      },
+      {
+        "id": 5,
+        "text": "As the world grapples with the challenges of sustainable development, it has become increasingly evident that a radical shift in our consumption patterns is necessary."
+      },
+      {
+        "id": 6,
+        "text": "Despite the numerous benefits associated with regular exercise, many people struggle to incorporate physical activity into their busy schedules."
+      },
+      {
+        "id": 7,
+        "text": "The novel, which explores the intricacies of human relationships and the consequences of one's actions, has been hailed as a masterpiece of contemporary literature."
+      },
+      {
+        "id": 8,
+        "text": "The implementation of stringent environmental regulations has been shown to have a positive impact on the overall quality of life in urban areas."
+      },
+      {
+        "id": 9,
+        "text": "In order to mitigate the effects of global warming, it is essential that we adopt a multifaceted approach that incorporates both mitigation and adaptation strategies."
+      },
+      {
+        "id": 10,
+        "text": "The discovery of exoplanets, which has shed new light on the possibility of extraterrestrial life, has significant implications for the field of astrobiology."
+      },
+      {
+        "id": 11,
+        "text": "The relationship between social media usage and mental health, which has been the subject of extensive research, is complex and multifaceted."
+      },
+      {
+        "id": 12,
+        "text": "The fact that the company has invested heavily in renewable energy sources has not only reduced its carbon footprint but also enhanced its reputation as a socially responsible corporation."
+      },
+      {
+        "id": 13,
+        "text": "The new employee, who had been struggling to adjust to the company culture, was finally able to find his footing after receiving guidance from a seasoned mentor."
+      },
+      {
+        "id": 14,
+        "text": "The implications of the recent economic downturn, which have been felt across various sectors, are likely to be far-reaching and profound."
+      },
+      {
+        "id": 15,
+        "text": "The artist's use of vibrant colors and bold brushstrokes, which has been described as both provocative and captivating, has sparked intense debate among art critics."
+      },
+      {
         "id": 16,
-        "text": "Under no circumstances should the preliminary, unverified data be disseminated to the press or any other external body."
+        "text": "The importance of preserving cultural heritage sites, which are not only significant historically but also economically, cannot be overstated."
       },
       {
         "id": 17,
-        "text": "The protagonist, a quintessential anti-hero, grapples with existential questions for which there are no easy, clear-cut answers."
+        "text": "The correlation between a person's socioeconomic status and their access to quality education, which has been extensively studied, is a pressing concern that needs to be addressed."
       },
       {
         "id": 18,
-        "text": "It was the stark juxtaposition of the opulent palace with the squalid slums surrounding it that served as the catalyst for the revolution."
+        "text": "The development of artificial intelligence, which has the potential to revolutionize numerous industries, raises important questions about the future of work and employment."
       },
       {
         "id": 19,
-        "text": "By the time the new regulations are officially implemented, it is anticipated that most corporations will already have adjusted their internal policies."
+        "text": "The role of social media in shaping public opinion, which has been the subject of much controversy, is a complex and multifaceted issue that requires careful consideration."
       },
       {
         "id": 20,
-        "text": "He tried to play devil's advocate, but his counterarguments were so convoluted and esoteric that they failed to gain any traction with the committee."
+        "text": "The impact of tourism on local ecosystems, which can be both positive and negative, depends on various factors, including the type of tourism and the level of infrastructure development."
       },
       {
         "id": 21,
-        "text": "Had the city invested in its public transport infrastructure decades ago, it wouldn't be facing the gridlock and pollution problems it does now."
+        "text": "The significance of empathy in building strong relationships, which has been highlighted by numerous studies, cannot be overstated."
       },
       {
         "id": 22,
-        "text": "The treaty demands that all signatories reduce their carbon emissions by a specified percentage and that they submit to periodic, independent inspections."
+        "text": "The consequences of ignoring the warnings of climate change, which would be catastrophic, are too dire to contemplate."
       },
       {
         "id": 23,
-        "text": "Exhausted by the protracted and often acrimonious negotiations, the diplomat was nonetheless relieved that a semblance of an agreement had been reached."
+        "text": "The relationship between language and culture, which is deeply intertwined, is a fascinating topic that has been explored by linguists and anthropologists."
       },
       {
         "id": 24,
-        "text": "The ephemeral nature of his fame served as a cautionary tale for aspiring artists who sought lasting recognition over fleeting celebrity."
+        "text": "The importance of investing in early childhood education, which has been shown to have a positive impact on future academic success, is a pressing concern that needs to be addressed."
       },
       {
         "id": 25,
-        "text": "Not only does the novel provide a searing critique of contemporary society, but it also does so with a wit and linguistic verve rarely seen in modern literature."
+        "text": "The impact of globalization on local economies, which can be both beneficial and detrimental, depends on various factors, including the level of economic development and the type of industries involved."
       },
       {
         "id": 26,
-        "text": "To launch a new product line during such an economic downturn would be, to put it mildly, putting the cart before the horse."
+        "text": "The role of education in promoting social mobility, which has been extensively studied, is a critical component of any comprehensive strategy aimed at reducing inequality."
       },
       {
         "id": 27,
-        "text": "The symphony, long believed to have been an early, immature work, is now being re-evaluated as a groundbreaking piece of proto-romanticism."
+        "text": "The effects of air pollution on human health, which have been well-documented, are a major concern that requires immediate attention and action."
       },
       {
         "id": 28,
-        "text": "What the team lacked in experience, they more than made up for with their indefatigable spirit and a collaborative approach to problem-solving."
+        "text": "The significance of preserving biodiversity, which is essential for maintaining healthy ecosystems, cannot be overstated."
       },
       {
         "id": 29,
-        "text": "If she were less dogmatic in her views, she would have realized that her opponent's proposal actually had considerable merit."
+        "text": "The development of sustainable agriculture, which is critical for ensuring food security, is a complex issue that requires careful consideration of various factors."
       },
       {
         "id": 30,
-        "text": "The small nation had little choice but to acquiesce to the demands of its more powerful neighbor, inasmuch as armed conflict was an unthinkable alternative."
+        "text": "The impact of technological advancements on traditional industries, which can be both disruptive and transformative, depends on various factors, including the level of innovation and the type of technologies involved."
       },
       {
         "id": 31,
-        "text": "Little did the unassuming librarian know that the dusty tome she had discovered contained clandestine information capable of toppling governments."
+        "text": "The importance of promoting cultural exchange programs, which can foster greater understanding and cooperation between nations, is a pressing concern that needs to be addressed."
       },
       {
         "id": 32,
-        "text": "I often wish I had pursued a career in astrophysics, though I am perfectly content with the path my life has ultimately taken."
+        "text": "The relationship between economic growth and environmental sustainability, which is complex and multifaceted, requires careful consideration of various factors, including the type of economic activities and the level of environmental regulations."
       },
       {
         "id": 33,
-        "text": "Faced with incontrovertible evidence of his malfeasance, the CEO tendered his resignation, effective immediately."
+        "text": "The consequences of neglecting infrastructure development, which can have far-reaching and devastating effects, are too dire to contemplate."
       },
       {
         "id": 34,
-        "text": "While the initial polling data seems overwhelmingly positive, we shouldn't count our chickens before they're hatched; the election is still months away."
+        "text": "The role of leadership in shaping organizational culture, which has been extensively studied, is a critical component of any comprehensive strategy aimed at promoting positive change."
       },
       {
         "id": 35,
-        "text": "Had I been aware of the composer's penchant for dissonance, I might have had my expectations better calibrated before attending the concert."
+        "text": "The significance of investing in mental health services, which has been shown to have a positive impact on overall well-being, is a pressing concern that needs to be addressed."
       },
       {
         "id": 36,
-        "text": "The perennial conundrum for policymakers is how to stimulate economic growth without exacerbating wealth inequality."
+        "text": "The impact of social media on interpersonal relationships, which can be both positive and negative, depends on various factors, including the type of social media platforms and the level of usage."
       },
       {
         "id": 37,
-        "text": "Only after the final witness had given their testimony did the full, shocking scope of the conspiracy become apparent to the jury."
+        "text": "The development of renewable energy sources, which is critical for reducing our reliance on fossil fuels, is a complex issue that requires careful consideration of various factors."
       },
       {
         "id": 38,
-        "text": "It should have been made abundantly clear from the outset that the merger would necessitate a significant, and likely painful, corporate restructuring."
+        "text": "The importance of promoting critical thinking skills, which has been highlighted by numerous studies, is a pressing concern that needs to be addressed."
       },
       {
         "id": 39,
-        "text": "It is precisely by embracing ambiguity and resisting the urge for premature conclusions that genuine scientific breakthroughs are made."
+        "text": "The relationship between education and economic development, which is deeply intertwined, is a fascinating topic that has been explored by economists and educators."
       },
       {
         "id": 40,
-        "text": "All things considered, and despite the innumerable obstacles thrown in our path, the expedition could be deemed nothing less than a resounding success."
+        "text": "The consequences of ignoring the warnings of pandemics, which would be catastrophic, are too dire to contemplate."
       }
     ]
   },
   "listeningCache": {
     "conversation": {
       "basic": [],
-      "intermediate": [],
+      "intermediate": [
+        {
+          "type": "conversation",
+          "title": "Ordering Food",
+          "script": [
+            {
+              "speaker": "Waiter",
+              "text": "Welcome to Bistro Bliss. Can I take your order?"
+            },
+            {
+              "speaker": "Sarah",
+              "text": "Yes, I'd like to have the chicken salad, please. And can I get a glass of lemonade for $3.50?"
+            },
+            {
+              "speaker": "Waiter",
+              "text": "Certainly. And for you, sir?"
+            },
+            {
+              "speaker": "Mike",
+              "text": "I'll have the beef burger, please. And can you make sure it's well done?"
+            },
+            {
+              "speaker": "Waiter",
+              "text": "Absolutely. We have a special deal on fries for $2.99. Would you like to try it?"
+            },
+            {
+              "speaker": "Sarah",
+              "text": "Yes, we'll take the fries. And can we get the check at 8 pm, please?"
+            }
+          ],
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the name of the restaurant?",
+              "options": [
+                "Bistro Bliss",
+                "Bliss Bistro",
+                "The Bistro",
+                "Bistro"
+              ],
+              "answer": "Bistro Bliss",
+              "explanation": "The waiter mentions the name of the restaurant in his welcome message."
+            },
+            {
+              "id": 2,
+              "question": "What drink does Sarah order?",
+              "options": [
+                "Iced tea",
+                "Lemonade",
+                "Coffee",
+                "Juice"
+              ],
+              "answer": "Lemonade",
+              "explanation": "Sarah mentions the drink she wants to order."
+            },
+            {
+              "id": 3,
+              "question": "How much does the lemonade cost?",
+              "options": [
+                "$2.50",
+                "$3.00",
+                "$3.50",
+                "$4.00"
+              ],
+              "answer": "$3.50",
+              "explanation": "Sarah mentions the price of the lemonade."
+            },
+            {
+              "id": 4,
+              "question": "What is Mike's order?",
+              "options": [
+                "Chicken salad",
+                "Beef burger",
+                "Veggie sandwich",
+                "Fish and chips"
+              ],
+              "answer": "Beef burger",
+              "explanation": "Mike mentions his order in the conversation."
+            },
+            {
+              "id": 5,
+              "question": "How much do the fries cost?",
+              "options": [
+                "$2.49",
+                "$2.99",
+                "$3.49",
+                "$3.99"
+              ],
+              "answer": "$2.99",
+              "explanation": "The waiter mentions the price of the fries."
+            },
+            {
+              "id": 6,
+              "question": "At what time do Sarah and Mike want the check?",
+              "options": [
+                "7 pm",
+                "7:30 pm",
+                "8 pm",
+                "8:30 pm"
+              ],
+              "answer": "8 pm",
+              "explanation": "Sarah mentions the time they want the check."
+            },
+            {
+              "id": 7,
+              "question": "Is Mike's beef burger cooked well done?",
+              "options": [
+                "Yes",
+                "No",
+                "Maybe",
+                "Not sure"
+              ],
+              "answer": "Yes",
+              "explanation": "Mike specifically requests his burger to be well done."
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Job Interview",
+          "script": [
+            {
+              "speaker": "Interviewer",
+              "text": "Welcome, John. Can you tell me a little about yourself?"
+            },
+            {
+              "speaker": "John",
+              "text": "I have 5 years of experience in marketing and I've worked with 3 different companies, including XYZ Corporation."
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "That's great. We're looking for someone to start on March 1st. Can you start on that date?"
+            },
+            {
+              "speaker": "John",
+              "text": "Yes, I can start on March 1st. I'm available to work 40 hours a week."
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "Excellent. The salary for this position is $60,000 per year. And you'll get 2 weeks of paid vacation."
+            },
+            {
+              "speaker": "John",
+              "text": "That sounds good. I'm looking forward to hearing from you by the end of the week."
+            }
+          ],
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is John's level of experience in marketing?",
+              "options": [
+                "2 years",
+                "3 years",
+                "5 years",
+                "10 years"
+              ],
+              "answer": "5 years",
+              "explanation": "John mentions his experience in the conversation."
+            },
+            {
+              "id": 2,
+              "question": "How many companies has John worked with?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "answer": "3",
+              "explanation": "John mentions the number of companies he has worked with."
+            },
+            {
+              "id": 3,
+              "question": "What is the name of one of the companies John has worked with?",
+              "options": [
+                "ABC Inc.",
+                "XYZ Corporation",
+                "PQR Ltd.",
+                "MNO Corp."
+              ],
+              "answer": "XYZ Corporation",
+              "explanation": "John mentions the company in his introduction."
+            },
+            {
+              "id": 4,
+              "question": "When is John expected to start the new job?",
+              "options": [
+                "February 20th",
+                "March 1st",
+                "March 15th",
+                "April 1st"
+              ],
+              "answer": "March 1st",
+              "explanation": "The interviewer mentions the start date."
+            },
+            {
+              "id": 5,
+              "question": "How many hours is John available to work per week?",
+              "options": [
+                "30 hours",
+                "35 hours",
+                "40 hours",
+                "45 hours"
+              ],
+              "answer": "40 hours",
+              "explanation": "John mentions his availability in the conversation."
+            },
+            {
+              "id": 6,
+              "question": "What is the salary for the position?",
+              "options": [
+                "$50,000",
+                "$55,000",
+                "$60,000",
+                "$65,000"
+              ],
+              "answer": "$60,000",
+              "explanation": "The interviewer mentions the salary."
+            },
+            {
+              "id": 7,
+              "question": "How many weeks of paid vacation does John get?",
+              "options": [
+                "1 week",
+                "2 weeks",
+                "3 weeks",
+                "4 weeks"
+              ],
+              "answer": "2 weeks",
+              "explanation": "The interviewer mentions the number of weeks of paid vacation."
+            }
+          ]
+        }
+      ],
       "advanced": []
     },
     "story": {
@@ -483,7 +731,214 @@
   },
   "readingCache": {
     "basic": [],
-    "intermediate": [],
+    "intermediate": [
+      {
+        "type": "reading",
+        "title": "The History of the Ancient City of Petra",
+        "content": "The ancient city of Petra, located in modern-day Jordan, is one of the most fascinating and mysterious archaeological sites in the world. The city was once the capital of the Nabataean Kingdom, a powerful and prosperous empire that controlled the trade routes between the East and the West. The Nabataeans were a group of Arabs who settled in the area in the 6th century BC and established a thriving civilization. They developed a sophisticated system of agriculture, architecture, and engineering, which allowed them to build a magnificent city that was carved into the sandstone cliffs. The city of Petra was an important center of trade and commerce, and its strategic location allowed it to control the flow of goods and people between the Arabian Peninsula and the Mediterranean region. The city's inhabitants were known for their advanced knowledge of astronomy, mathematics, and medicine, and they made significant contributions to the development of these fields. The city of Petra was also an important cultural and spiritual center, and it was home to many temples, churches, and other places of worship. The most famous of these is the Treasury, a magnificent temple that was carved into the face of a mountain and is considered one of the most impressive architectural achievements of the ancient world. The Treasury was built in the 1st century BC and is believed to have been used as a temple and a royal tomb. It is decorated with intricate carvings and statues, and its façade is adorned with a magnificent portico. The city of Petra was also home to many other impressive structures, including the Monastery, the Royal Tombs, and the Amphitheater. These structures were built using advanced engineering techniques and are a testament to the ingenuity and skill of the Nabataeans. Despite its many achievements, the city of Petra began to decline in the 4th century AD, and it was eventually abandoned. The city remained hidden for many centuries, and it was only rediscovered in the 19th century by European explorers. Today, the city of Petra is a UNESCO World Heritage site and is considered one of the most important archaeological sites in the world. It attracts millions of visitors each year, and it is a source of pride and inspiration for the people of Jordan. The city's rich history and culture are a testament to the ingenuity and creativity of the human spirit, and it continues to captivate and inspire people from all over the world. Furthermore, the study of Petra has also shed light on the history of the ancient world and has provided valuable insights into the development of human civilization. The city's strategic location and its role in the ancient trade routes have made it an important subject of study for historians and archaeologists. In addition, the city's unique architecture and engineering have also made it a fascinating subject for engineers and architects. As a result, the city of Petra continues to be an important center of learning and discovery, and its legacy will continue to inspire and educate people for generations to come.",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What was the city of Petra?",
+            "options": [
+              "The capital of the Roman Empire",
+              "The capital of the Nabataean Kingdom",
+              "A major city in ancient Egypt",
+              "A city in ancient Greece"
+            ],
+            "answer": "B",
+            "explanation": "The city of Petra was once the capital of the Nabataean Kingdom, a powerful and prosperous empire that controlled the trade routes between the East and the West"
+          },
+          {
+            "id": 2,
+            "question": "Who were the Nabataeans?",
+            "options": [
+              "A group of Arabs who settled in the area in the 6th century BC",
+              "A group of Europeans who settled in the area in the 1st century AD",
+              "A group of Africans who settled in the area in the 2nd century BC",
+              "A group of Asians who settled in the area in the 3rd century AD"
+            ],
+            "answer": "A",
+            "explanation": "The Nabataeans were a group of Arabs who settled in the area in the 6th century BC and established a thriving civilization"
+          },
+          {
+            "id": 3,
+            "question": "What was the Treasury?",
+            "options": [
+              "A magnificent temple that was carved into the face of a mountain",
+              "A royal palace that was built in the center of the city",
+              "A marketplace where goods were sold",
+              "A place of worship for the local people"
+            ],
+            "answer": "A",
+            "explanation": "The Treasury was a magnificent temple that was carved into the face of a mountain and is considered one of the most impressive architectural achievements of the ancient world"
+          },
+          {
+            "id": 4,
+            "question": "What happened to the city of Petra?",
+            "options": [
+              "It was destroyed by an earthquake",
+              "It was abandoned and remained hidden for many centuries",
+              "It was conquered by a rival empire",
+              "It continued to thrive and grow"
+            ],
+            "answer": "B",
+            "explanation": "The city of Petra began to decline in the 4th century AD, and it was eventually abandoned, remaining hidden for many centuries"
+          },
+          {
+            "id": 5,
+            "question": "Why is the city of Petra important?",
+            "options": [
+              "It is a UNESCO World Heritage site",
+              "It is a source of pride and inspiration for the people of Jordan",
+              "It is a testament to the ingenuity and creativity of the human spirit",
+              "All of the above"
+            ],
+            "answer": "D",
+            "explanation": "The city of Petra is a UNESCO World Heritage site, a source of pride and inspiration for the people of Jordan, and a testament to the ingenuity and creativity of the human spirit"
+          },
+          {
+            "id": 6,
+            "question": "What can be learned from the study of Petra?",
+            "options": [
+              "The history of the ancient world",
+              "The development of human civilization",
+              "The engineering techniques used by the Nabataeans",
+              "All of the above"
+            ],
+            "answer": "D",
+            "explanation": "The study of Petra has shed light on the history of the ancient world, provided valuable insights into the development of human civilization, and has also provided a fascinating subject for engineers and architects to study"
+          },
+          {
+            "id": 7,
+            "question": "What is the significance of the city's strategic location?",
+            "options": [
+              "It allowed the city to control the flow of goods and people between the Arabian Peninsula and the Mediterranean region",
+              "It made the city a major center of trade and commerce",
+              "It provided a unique perspective on the ancient world",
+              "It had no significant impact on the city's development"
+            ],
+            "answer": "A",
+            "explanation": "The city's strategic location allowed it to control the flow of goods and people between the Arabian Peninsula and the Mediterranean region, making it an important center of trade and commerce"
+          },
+          {
+            "id": 8,
+            "question": "What is the current status of the city of Petra?",
+            "options": [
+              "It is a thriving city with a large population",
+              "It is a UNESCO World Heritage site and a major tourist destination",
+              "It is a abandoned and forgotten city",
+              "It is a place of worship for the local people"
+            ],
+            "answer": "B",
+            "explanation": "The city of Petra is a UNESCO World Heritage site and is considered one of the most important archaeological sites in the world, attracting millions of visitors each year"
+          }
+        ]
+      },
+      {
+        "type": "reading",
+        "title": "The Impact of Climate Change on Marine Ecosystems",
+        "content": "Climate change is having a profound impact on marine ecosystems around the world. Rising ocean temperatures, acidification, and changes in circulation patterns are all affecting the delicate balance of these ecosystems. One of the most significant effects of climate change on marine ecosystems is the bleaching of coral reefs. Coral reefs are some of the most diverse ecosystems on the planet, providing a home for thousands of species of fish, invertebrates, and algae. However, as ocean temperatures rise, corals are stressed, causing them to expel their algal symbionts and turn white, a process known as bleaching. If the stress is prolonged, the coral can die, leading to a loss of habitat for the many species that depend on it. Another impact of climate change on marine ecosystems is the shift in distribution of marine species. As ocean temperatures change, many species are moving poleward or to deeper waters in search of cooler temperatures. This can lead to changes in the composition of marine communities, as some species are better adapted to the changing conditions than others. For example, the warming of the ocean is allowing some species of fish to move into areas that were previously too cold for them, while others are being pushed out of their traditional habitats. Climate change is also affecting the productivity of marine ecosystems. Phytoplankton, the base of the marine food web, are sensitive to changes in ocean temperature and chemistry. As the ocean warms and becomes more acidic, phytoplankton growth rates are declining, leading to a decrease in the overall productivity of the ecosystem. This can have cascading effects throughout the food web, as larger animals that depend on phytoplankton for food are also impacted. In addition to these impacts, climate change is also affecting the ocean's ability to absorb carbon dioxide from the atmosphere. The ocean has been absorbing about a quarter of the carbon dioxide released into the atmosphere through human activities, but as the ocean warms and becomes more acidic, its ability to do so is decreasing. This can lead to an increase in atmospheric carbon dioxide levels, exacerbating the problem of climate change. The impacts of climate change on marine ecosystems are far-reaching and can have significant consequences for human societies. Many people depend on marine ecosystems for food, livelihoods, and recreational activities. For example, the fishing industry is a significant contributor to the economy of many coastal communities, and changes in the distribution and abundance of fish species can have major impacts on these industries. Furthermore, the loss of coral reefs and other coastal ecosystems can also lead to increased vulnerability to storms and sea level rise, as these ecosystems provide important coastal protection. In conclusion, the impact of climate change on marine ecosystems is a pressing issue that requires immediate attention. It is essential that we take action to reduce our carbon footprint and mitigate the effects of climate change on these delicate ecosystems. By doing so, we can help to preserve the health and biodiversity of marine ecosystems, and ensure the long-term sustainability of the many benefits they provide to human societies.",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the impact of climate change on coral reefs?",
+            "options": [
+              "Coral reefs are not affected by climate change",
+              "Coral reefs are bleached and can die due to rising ocean temperatures",
+              "Coral reefs are becoming more diverse due to climate change",
+              "Coral reefs are moving to deeper waters"
+            ],
+            "answer": "B",
+            "explanation": "One of the most significant effects of climate change on marine ecosystems is the bleaching of coral reefs, which can lead to a loss of habitat for the many species that depend on it"
+          },
+          {
+            "id": 2,
+            "question": "How are marine species being affected by climate change?",
+            "options": [
+              "They are not being affected",
+              "They are moving poleward or to deeper waters in search of cooler temperatures",
+              "They are becoming extinct due to climate change",
+              "They are evolving to adapt to the changing conditions"
+            ],
+            "answer": "B",
+            "explanation": "Many species are moving poleward or to deeper waters in search of cooler temperatures, leading to changes in the composition of marine communities"
+          },
+          {
+            "id": 3,
+            "question": "What is the impact of climate change on the productivity of marine ecosystems?",
+            "options": [
+              "It is increasing the productivity of marine ecosystems",
+              "It is having no impact on the productivity of marine ecosystems",
+              "It is decreasing the productivity of marine ecosystems",
+              "It is changing the composition of marine communities"
+            ],
+            "answer": "C",
+            "explanation": "Climate change is affecting the productivity of marine ecosystems, as phytoplankton growth rates are declining, leading to a decrease in the overall productivity of the ecosystem"
+          },
+          {
+            "id": 4,
+            "question": "How is climate change affecting the ocean's ability to absorb carbon dioxide?",
+            "options": [
+              "It is increasing the ocean's ability to absorb carbon dioxide",
+              "It is having no impact on the ocean's ability to absorb carbon dioxide",
+              "It is decreasing the ocean's ability to absorb carbon dioxide",
+              "It is changing the ocean's chemistry"
+            ],
+            "answer": "C",
+            "explanation": "The ocean's ability to absorb carbon dioxide is decreasing, leading to an increase in atmospheric carbon dioxide levels and exacerbating the problem of climate change"
+          },
+          {
+            "id": 5,
+            "question": "What are the consequences of climate change for human societies?",
+            "options": [
+              "There are no consequences for human societies",
+              "Climate change is having a positive impact on human societies",
+              "Climate change is having a negative impact on human societies, affecting food, livelihoods, and recreational activities",
+              "Climate change is only affecting marine ecosystems"
+            ],
+            "answer": "C",
+            "explanation": "The impacts of climate change on marine ecosystems can have significant consequences for human societies, including effects on food, livelihoods, and recreational activities"
+          },
+          {
+            "id": 6,
+            "question": "Why is it important to take action to reduce our carbon footprint?",
+            "options": [
+              "It is not important to take action to reduce our carbon footprint",
+              "It is important to take action to reduce our carbon footprint to mitigate the effects of climate change on marine ecosystems",
+              "It is important to take action to reduce our carbon footprint to protect human societies",
+              "It is important to take action to reduce our carbon footprint to preserve the health and biodiversity of marine ecosystems"
+            ],
+            "answer": "D",
+            "explanation": "It is essential that we take action to reduce our carbon footprint and mitigate the effects of climate change on marine ecosystems, in order to preserve the health and biodiversity of these ecosystems and ensure the long-term sustainability of the many benefits they provide to human societies"
+          },
+          {
+            "id": 7,
+            "question": "What can be done to mitigate the effects of climate change on marine ecosystems?",
+            "options": [
+              "Nothing can be done to mitigate the effects of climate change on marine ecosystems",
+              "We can reduce our carbon footprint and mitigate the effects of climate change on marine ecosystems",
+              "We can only protect coral reefs and other coastal ecosystems",
+              "We can only reduce the impact of climate change on human societies"
+            ],
+            "answer": "B",
+            "explanation": "It is essential that we take action to reduce our carbon footprint and mitigate the effects of climate change on marine ecosystems, in order to preserve the health and biodiversity of these ecosystems"
+          },
+          {
+            "id": 8,
+            "question": "What is the importance of preserving the health and biodiversity of marine ecosystems?",
+            "options": [
+              "It is not important to preserve the health and biodiversity of marine ecosystems",
+              "It is important to preserve the health and biodiversity of marine ecosystems to ensure the long-term sustainability of the many benefits they provide to human societies",
+              "It is important to preserve the health and biodiversity of marine ecosystems to protect human societies",
+              "It is important to preserve the health and biodiversity of marine ecosystems to mitigate the effects of climate change"
+            ],
+            "answer": "B",
+            "explanation": "It is essential to preserve the health and biodiversity of marine ecosystems, in order to ensure the long-term sustainability of the many benefits they provide to human societies, including food, livelihoods, and recreational activities"
+          }
+        ]
+      }
+    ],
     "advanced": []
   }
 }

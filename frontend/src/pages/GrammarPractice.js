@@ -8,6 +8,7 @@ import PracticeSession from '../components/PracticeSession';
 // SegmentedControl removed (using custom UI now)
 import '../styles/Practice.css';
 import '../styles/GrammarVariant.css';
+import { API_BASE_URL } from '../config';
 
 // Simple Diff View Component
 const DiffView = ({ target, spoken }) => {
@@ -137,7 +138,7 @@ const GrammarPractice = () => {
     setCurrentResult(null);
     setSessionKey(prev => prev + 1);
     try {
-      const response = await fetch(`http://localhost:5000/api/practice/questions/grammar?difficulty=${level}`);
+      const response = await fetch(`${API_BASE_URL}/api/practice/questions/grammar?difficulty=${level}`);
       const data = await response.json();
       setCurrentQuestion(data);
     } catch (error) {
@@ -188,7 +189,7 @@ const GrammarPractice = () => {
             const wpm = Math.round(wordCount / (answer.duration / 60)) || 0;
 
             try {
-                const response = await fetch('http://localhost:5000/api/practice/submit', {
+                const response = await fetch(`${API_BASE_URL}/api/practice/submit`, {
                     method: 'POST',
                     headers: { 
                     'Content-Type': 'application/json',

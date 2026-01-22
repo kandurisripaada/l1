@@ -4,6 +4,7 @@ import { FiHeadphones, FiBookOpen, FiPlay, FiPause, FiRefreshCw, FiCheck, FiX } 
 import toast from 'react-hot-toast';
 import AuroraBackground from '../components/AuroraBackground';
 import '../styles/ListenReadPractice.css';
+import { API_BASE_URL } from '../config';
 
 const ListenReadPractice = () => {
   const [loading, setLoading] = useState(false);
@@ -44,10 +45,10 @@ const ListenReadPractice = () => {
         let url, body;
         
         if (mode === 'reading') {
-            url = 'http://localhost:5000/api/reading/generate';
+            url = `${API_BASE_URL}/api/reading/generate`;
             body = { difficulty: 'intermediate' }; // Can be dynamic later
         } else {
-            url = 'http://localhost:5000/api/listening/generate';
+            url = `${API_BASE_URL}/api/listening/generate`;
             body = { type: 'conversation', difficulty: 'intermediate' };
         }
 
@@ -136,7 +137,7 @@ const ListenReadPractice = () => {
     
     // Save to Backend
     try {
-        const response = await fetch('http://localhost:5000/api/practice/submit', {
+        const response = await fetch(`${API_BASE_URL}/api/practice/submit`, {
             method: 'POST',
             headers: { 
                 'Content-Type': 'application/json',

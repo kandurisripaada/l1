@@ -7,6 +7,7 @@ import toast from 'react-hot-toast';
 import PracticeSession from '../components/PracticeSession';
 import SegmentedControl from '../components/SegmentedControl';
 import '../styles/Practice.css'; // Reusing practice styles
+import { API_BASE_URL } from '../config';
 
 import useVoices from '../hooks/useVoices';
 
@@ -25,7 +26,7 @@ const TopicPractice = () => {
     setSessionResults(null); // Clear previous results
     setSessionKey(prev => prev + 1); // Force remount for fresh state
     try {
-      const response = await fetch('http://localhost:5000/api/practice/questions/topic');
+      const response = await fetch(`${API_BASE_URL}/api/practice/questions/topic`);
       const data = await response.json();
       setQuestion(data);
     } catch (error) {
@@ -50,7 +51,7 @@ const TopicPractice = () => {
       const wordCount = data.transcript.trim().split(/\s+/).length;
       const wpm = Math.round(wordCount / (data.duration / 60)) || 0;
 
-      const response = await fetch('http://localhost:5000/api/practice/submit', {
+      const response = await fetch(`${API_BASE_URL}/api/practice/submit`, {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',

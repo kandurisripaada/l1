@@ -110,6 +110,6 @@ This project is a showcase of modern full-stack development:
 
 <div align="center">
 
-Made with ❤️ by the LanguaBot Team
+hehahaaha
 
 </div>
