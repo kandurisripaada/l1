@@ -2,10 +2,18 @@
     "installCommand": "npm install --prefix frontend",
     "buildCommand": "npm run build --prefix frontend",
     "outputDirectory": "frontend/build",
-    "rewrites": [
+    "routes": [
         {
-            "source": "/(.*)",
-            "destination": "/index.html"
+            "src": "/static/(.*)",
+            "dest": "/static/$1"
+        },
+        {
+            "src": "/(.*\\.(js|css|ico|png|jpg|svg|json|txt|map))",
+            "dest": "/$1"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/index.html"
         }
     ]
 }
